@@ -2,4 +2,4 @@
 *.slo
 *.suo
 obj
-bin
+/source/Easy.NET/bin/
